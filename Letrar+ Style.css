@@ -1,0 +1,22 @@
+body{
+    color: black;
+    background-color:lightgray !important;
+}
+h1 {
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:yellow ;
+    font-style: italic;
+}
+p,
+h2 {
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+a{
+    color:black;
+}
+a:hover{
+    color: yellow;
+}
